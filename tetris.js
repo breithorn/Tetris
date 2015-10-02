@@ -1,3 +1,11 @@
+/*
+	Created in 2005 by Carl Fredrik Abelson. This game is 
+	written entirely in DHTML and JavaScript.
+
+	Tetris is a registered trademark by The Tetris Company, 
+	but the source code for this implementation is licensed 
+	under the GNU General Public License (GPL).
+*/
 
 var NUMBER_ROWS = 20;
 var NUMBER_COLUMNS = 10;
